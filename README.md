@@ -4,13 +4,9 @@ Code used for analyzing the data described in the following publication: [coming
 
 Code developed by:
 
-Julien Luneau
-Department of Fundamental Microbiology, University of Lausanne
-julien.luneau@unil.ch
-&
-Simon van Vliet  
-Biozentrum, University Basel  
-simon.vanvliet@unibas.ch
+Julien Luneau (Department of Fundamental Microbiology, University of Lausanne; julien.luneau@unil.ch) \
+& \
+Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
 
 ## Requirements
 
