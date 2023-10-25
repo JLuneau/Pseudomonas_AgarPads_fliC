@@ -19,7 +19,7 @@ Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
 
 Jupyter notebooks are provided to recreate the data analysis, from running the Delta 2.0 pipeline to data analysis and figure generation
 
-To replicate the results follow the following steps:
+To replicate the results, follow the following steps:
 
 1. Run the `0_Run_delta_pipeline_Psy` to run Delta 2.0 on a time-lapse experiment
 2. Run the `1_postprocess_delta_Psy` to process Delta 2.0 output
