@@ -11,7 +11,6 @@ Julien Luneau (Department of Fundamental Microbiology, University of Lausanne; j
 & \
 Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
 
-\
 
 ## Requirements
 
