@@ -10,7 +10,7 @@ Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
 
 ## Requirements
 
-- create a conda environment using the specified `environment_AgarPads_Psy.yml` file
+- create a conda environment using the specified `environment_AgarPad_Psy.yml` file
 - install Delta 2.0 and add it to your search path following [these instructions](https://delta.readthedocs.io/en/latest/usage/installation.html)
 
 ## Contents
