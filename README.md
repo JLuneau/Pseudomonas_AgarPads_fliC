@@ -1,4 +1,4 @@
-# Pseudomonas_AgarPads_fliC
+# Pseudomonas fliC heterogeneity in single cells
 
 Code used for analyzing the data described in the following publication: [coming soon]
 
