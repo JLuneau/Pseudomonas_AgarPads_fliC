@@ -1,5 +1,7 @@
 # Pseudomonas fliC heterogeneity in single cells
 
+![C2-2023 09 27_Psy_AgarPads#13_Pos39_forpaper_crop0048](https://github.com/JLuneau/Pseudomonas_AgarPads_fliC/assets/93212587/de9828a2-8f08-48cb-a528-93fbe27339a4)
+
 Code used for analyzing the data described in the following publication: [coming soon]
 
 Code developed by:
