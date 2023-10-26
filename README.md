@@ -10,7 +10,8 @@ Code developed by:
 Julien Luneau (Department of Fundamental Microbiology, University of Lausanne; julien.luneau@unil.ch) \
 & \
 Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
-
+\
+\
 ## Requirements
 
 - create a conda environment using the specified `environment_AgarPad_Psy.yml` file
