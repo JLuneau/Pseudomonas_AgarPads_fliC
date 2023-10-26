@@ -1,0 +1,19 @@
+name: Psy_agarpads_env
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - pathlib
+  - pandas
+  - jupyterlab
+  - matplotlib
+  - scipy
+  - seaborn
+  - pip
+  - scikit-image
+  - python=3.9
+  - plotly
+  - numpy
+  - opencv>=4.1
+  - ffmpeg-python
+  - requests
