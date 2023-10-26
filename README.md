@@ -13,6 +13,8 @@ Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
 - create a conda environment using the specified `environment_AgarPad_Psy.yml` file
 - install Delta 2.0 and add it to your search path following [these instructions](https://delta.readthedocs.io/en/latest/usage/installation.html)
 
+  Note: for MacOS it might be needed to install tensorflow-metal to run on GPU
+
 ## Contents
 
 ### Jupyter Notebooks
