@@ -1,6 +1,6 @@
 # Pseudomonas fliC heterogeneity in single cells
 
-<img align="left" src="https://github.com/JLuneau/Pseudomonas_AgarPads_fliC/assets/93212587/de9828a2-8f08-48cb-a528-93fbe27339a4" width="200">
+<img align="left" src="https://github.com/JLuneau/Pseudomonas_AgarPads_fliC/assets/93212587/de9828a2-8f08-48cb-a528-93fbe27339a4" width="180">
 
 
 Code used for analyzing the data described in the following publication: [coming soon]
@@ -10,8 +10,6 @@ Code developed by:
 Julien Luneau (Department of Fundamental Microbiology, University of Lausanne; julien.luneau@unil.ch) \
 & \
 Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
-
-
 
 ## Requirements
 
