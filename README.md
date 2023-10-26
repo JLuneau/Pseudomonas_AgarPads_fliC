@@ -11,7 +11,7 @@ Julien Luneau (Department of Fundamental Microbiology, University of Lausanne; j
 & \
 Simon van Vliet (Biozentrum, University Basel; simon.vanvliet@unibas.ch)
 \
-\
+
 ## Requirements
 
 - create a conda environment using the specified `environment_AgarPad_Psy.yml` file
