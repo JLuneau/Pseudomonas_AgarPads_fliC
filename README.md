@@ -3,7 +3,7 @@
 <img align="left" src="https://github.com/JLuneau/Pseudomonas_AgarPads_fliC/assets/93212587/de9828a2-8f08-48cb-a528-93fbe27339a4" width="180">
 
 
-Code used for analyzing the data described in the following publication: [coming soon]
+Code used for analyzing the data described in the following publication: https://www.nature.com/articles/s41564-025-01966-0
 
 Code developed by:
 
